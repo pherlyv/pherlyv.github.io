@@ -263,14 +263,6 @@ p {
     text-decoration: none;
   }
 
- /* .poloska {
-    border-bottom: 5px solid black;
-    border-radius: 30%;
-    padding-bottom: 4rem;
-    display: flex;
-    position: relative;
-  }*/
-
   .text_center {
     margin-top: 8rem; /*либо 5rem*/
     margin-bottom: 3rem;
@@ -385,31 +377,6 @@ p {
 .show {
   display: flex;
 }
-
-.modal_okno {
-  width: 100%;
-  max-width: 1000px;
-  text-align: center;
-  margin: auto;
-  position: relative;
-  background-color: #fff;
-
-}
-
-.modal_title {
-  font-size: 2rem;
-  color: black;
-  font-weight: bold;
-  padding: 2rem 0;
-
-}
-
-.modal_pdf {
-  width: 100%;
-  height: 100%;
-
-}
-
 
 
 @media(max-width: 1199px) {
