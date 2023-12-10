@@ -331,7 +331,7 @@ p {
 
 
   .footer_copy {
-    color: #551A8B;
+    color: #ffffff;
     border-right: 1px solid grey;
     padding-right: 1rem;
     margin-right: 1rem;
@@ -346,7 +346,7 @@ p {
   .footer_link {
     margin-right: 1rem;
     text-decoration: none;
-    color: #551A8B;
+    color: #ffffff;
   }
 
   .footer_nav {
